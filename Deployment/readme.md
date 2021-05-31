@@ -7,7 +7,7 @@ El deployment del etl se realiza mediante una imagen docker, la cual es pública
 
 - comando para ejecutar etl
 `docker run -v <path-to-de-challenge>\src:/src fer-de-challenge`
-donde <path-to-de-challenge> es el directorio raíz del proyecto (local)
+donde path-to-de-challenge es el directorio raíz del proyecto (local)
  
 - reporte final es un archivo excel y se encuentra en src\games_report.xlsx
   
